@@ -18,4 +18,5 @@
 
 O que estou achando do curso ?
 
-Muito interessante!
+Aprendi bastante com os comandos do git.
+Acho que agora é o momento de pesquiçar e praticar mais, obrigado!
